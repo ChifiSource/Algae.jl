@@ -1,0 +1,16 @@
+name = "Algae"
+uuid = "82a45747-c453-4978-b743-3706526310f8"
+authors = ["emmac <emmettgb@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+HypothesisTests = "09f84164-cd44-5f33-b23f-e6b0d136a0d5"
+Lathe = "38d8eb38-e7b1-11e9-0012-376b6c802672"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+Toolips = "a47e2ad8-fcf7-417c-9746-32b9bdf220bd"
+ToolipsDefaults = "1710be6b-e895-498d-ba35-e3ff0dac7995"
+ToolipsMarkdown = "33f7ff50-f2f2-41f0-8a96-482dce5c1514"
+ToolipsSession = "2fe55384-55bc-4df3-9d59-c817d405cd05"
